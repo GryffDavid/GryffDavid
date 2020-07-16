@@ -1,4 +1,6 @@
-### Hi there 👋
+### Work in Progress
+
+If you're reading this, I'm still in the process of creating, updating and cleaning up my repos. It's 7 years worth of code so it's a bit of a process. In the mean time, I can be contacted via the email address at the left.
 
 <!--
 **GryffDavid/gryffdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
