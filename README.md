@@ -5,7 +5,7 @@ My primary love is game design, but I also enjoy programming. I'm a good all-rou
 
 I may not have the exact experience that you’re looking for but I make up for it with a broad range of skills, talent and a lifetime of passion for games.
 
-email me at GryffDavid@gmail.com
+GryffDavid@gmail.com
 
 <!--
 **GryffDavid/gryffdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
