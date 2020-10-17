@@ -1,7 +1,6 @@
 ### Work in Progress
 ### I am actively searching for a job in game design/gameplay programming.
-I have 8 years of experience with C# and Microsoft XNA/Monogame. I have ~6 years experience with C++. 
-I have experience in all areas of game development, mostly focused on gameplay design and programming, but also including UI design, graphics programming, testing, getting player feedback, tools development etc.
+I have 8 years of experience with C# and Microsoft XNA/Monogame. I have experience in all areas of game development, mostly focused on gameplay design and programming, but also including UI design, graphics programming, testing, getting player feedback, tools development etc.
 
 If you're reading this, I'm still in the process of creating, updating and cleaning up my repos. It's years worth of code so it's a bit of a process. In the mean time, I can be contacted via the email address at the left.
 
