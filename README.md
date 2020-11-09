@@ -1,7 +1,7 @@
 ### I am actively searching for a job in game design/gameplay programming.
 I'm a 28 year old South African indie game developer, looking to move into AAA or big indie game development. I am hungry for opportunity and I’m unrelentingly ambitious. I have 5 years of game development experience with C# and Microsoft XNA/Monogame. I know C# like the back of my hand, but I'm also proficient in C++. **These repositories are not exhaustive and do not show the full extent of my programming experience.**
 
-I started programming when 7 and I've been making my own games ever since. I'm passionate about both game programming and design. I'm a good all-rounder having had experience in all areas of game development while developing a game of my own from the ground up without an engine. I have mostly focused on gameplay programming and design, but my experience also includes UI design, graphics programming, testing, getting player feedback, tools development etc. 
+I started programming when I was 7 and I've been making my own games ever since. I'm passionate about both game programming and design. I'm a good all-rounder having had experience in all areas of game development while developing a game of my own from the ground up without an engine. I have mostly focused on gameplay programming and design, but my experience also includes UI design, graphics programming, testing, getting player feedback, tools development etc. 
 
 I may not have the exact experience that you’re looking for but I make up for it with a broad range of skills, talent and a lifetime of passion for games.
 
