@@ -1,4 +1,4 @@
-### I am actively searching for a job as gameplay programmer/technical designer/game design
+### I am actively searching for a job as gameplay programmer/technical designer/game designer
 **These repositories are not exhaustive and do not show the full extent of my programming experience.**
 
 I'm a 28 year old South African game developer, looking to transition into AAA or big indie game development. I'm a generalist with a large breadth of experience but I'm looking to specialise. Craving problems to solve and looking for a challenge. I am hungry for opportunity and I’m ambitious. 
