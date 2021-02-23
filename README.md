@@ -9,8 +9,6 @@ I started programming when I was 7 and I've been making my own games ever since.
 
 I may not have the *exact* experience that you’re looking for but I make up for it with a broad range of skills, talent and a lifetime of passion for games.
 
-[Most up-to-date resume](https://docs.google.com/document/d/1loCV6zuU1_Zv748Dn1iJ99U1C_rtRbIplHUrjvhGUUw/)
-
 GryffDavid@gmail.com
 
 
