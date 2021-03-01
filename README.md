@@ -7,8 +7,6 @@ I have ~7 years of game development experience with C# and Microsoft XNA/Monogam
 
 I started programming when I was 7 and I've been making my own games ever since. I'm passionate about both game programming and design. I'm a good all-rounder having had experience in all areas of game development while developing a game of my own from the ground up without an engine. I have mostly focused on gameplay programming and design, but my experience also includes UI design, graphics programming, testing, getting player feedback, tools development etc. 
 
-I may not have the *exact* experience that you’re looking for but I make up for it with a broad range of skills, talent and a lifetime of passion for games.
-
 GryffDavid@gmail.com
 
 
