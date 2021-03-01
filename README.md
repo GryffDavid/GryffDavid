@@ -3,7 +3,7 @@
 
 I'm an indie game developer, looking to transition into AAA or big indie game development. I'm a generalist with a large breadth of experience. Craving problems to solve and looking for a challenge. I am hungry for opportunity and I’m ambitious. 
 
-I have ~7 years of game development experience with C# and Microsoft XNA/Monogame (2012-2019). I know C# like the back of my hand, but I'm also proficient in C++ and I know Unreal Engine 4 both C++ and Blueprint.
+I have ~7 years of game development experience with C# and Microsoft XNA/Monogame (2013-2018). I know C# like the back of my hand, but I'm also proficient in C++ and I know Unreal Engine 4 both C++ and Blueprint.
 
 I started programming when I was 7 and I've been making my own games ever since. I'm passionate about both game programming and design. I'm a good all-rounder having had experience in all areas of game development while developing a game of my own from the ground up without an engine. I have mostly focused on gameplay programming and design, but my experience also includes UI design, graphics programming, testing, getting player feedback, tools development etc. 
 
