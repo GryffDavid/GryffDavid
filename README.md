@@ -1,15 +1,3 @@
-### I am actively searching for a job in games as a programmer/technical designer/game designer
-**These repositories are not exhaustive and do not show the full extent of my programming experience. A narrow slice of my C# work and some robotics can be found on my YouTube page: https://www.youtube.com/user/GryffDavid/featured*
-
-I'm an indie game developer, looking to transition into AAA or indie team game development. I'm a generalist with a large breadth of experience. Craving problems to solve and looking for a challenge.
-
-I have ~7 years of game development experience with C# and Microsoft XNA/Monogame (2012-2018). I know C# like the back of my hand, but I'm also proficient in C++ and I know Unreal Engine 4 both C++ and Blueprint.
-
-I started programming when I was 7 and I've been making my own games ever since. I'm passionate about both game programming and design. I'm a good all-rounder having had experience in all areas of game development while developing a game of my own from the ground up without an engine. I have mostly focused on gameplay programming and design, but my experience also includes UI design, graphics programming, testing, getting player feedback, tools development etc. 
-
-GryffDavid@gmail.com
-
-
 <!--
 **GryffDavid/gryffdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
